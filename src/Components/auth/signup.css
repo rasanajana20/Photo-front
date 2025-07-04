@@ -1,0 +1,107 @@
+
+.background {
+  background: linear-gradient(to right, #b065ff, #786fff);
+}
+
+.signup_wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 40px;
+}
+
+.signup_container {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  max-width: 900px;
+  width: 100%;
+  border-radius: 12px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.form_section {
+  flex: 1;
+  padding: 40px;
+}
+
+.image_section {
+  flex: 1;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image_section img {
+  max-width: 100%;
+  height: auto;
+}
+
+h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.sub_text {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.input_field {
+  width: 90%;
+  padding: 12px 15px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.signup_btn {
+  width: 98%;
+  padding: 12px;
+  background-color: #7c4dff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.signup_btn:hover {
+  background-color: #651fff;
+}
+
+.or_divider {
+  text-align: center;
+  margin: 20px 0;
+  font-size: 14px;
+  color: #999;
+}
+
+.social_buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.google_btn,
+.facebook_btn {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.google_btn:hover {
+  background-color: #f7f7f7;
+}
+
+.facebook_btn:hover {
+  background-color: #f0f0f0;
+}

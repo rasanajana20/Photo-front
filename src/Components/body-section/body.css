@@ -1,0 +1,61 @@
+.line_one {
+    background: linear-gradient(to right, #2B2B2B, #A89F91, #696969);
+    height: 5vh;
+    margin-top: 10px;
+}
+
+.line_two {
+    background: linear-gradient(to right, #3a1c71, #ff416c, #696969);
+    height: 5vh;
+    margin-top: 10px;
+}
+
+.line_thre {
+    background: linear-gradient(to right, #76b852, #A89F91, #f5af19);
+    height: 5vh;
+    margin-top: 10px;
+}
+
+.detail_container {
+    margin: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.professional {
+    background-color: #cfcdc8;
+    padding: 10px;
+    margin: 10px;
+}
+
+.creative {
+    background-color: #c2ffd8;
+    padding: 10px;
+    margin: 10px;
+}
+
+.event {
+    background-color: #e2e8c1;
+    padding: 10px;
+    margin: 10px;
+}
+
+.travel {
+    background-color: #e3cad4;
+    padding: 10px;
+    margin: 10px;
+}
+
+.minimal {
+    background-color: #c1d5e3;
+    padding: 10px;
+    margin: 10px;
+}
+
+.blackwhite {
+    background-color: #efaeae;
+    padding: 10px;
+    margin: 10px;
+}

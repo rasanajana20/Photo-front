@@ -1,0 +1,12 @@
+.footer_container {
+    background: linear-gradient(90deg, #57C785 0%, #2A7B9B 50%, #EDDD53 100%);
+    height: 5vh;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer {
+    text-align: right;
+}

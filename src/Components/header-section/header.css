@@ -1,0 +1,16 @@
+.header_container {
+    background: linear-gradient(90deg, #2A7B9B 0%, #57C785 50%, #EDDD53 100%);
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    color: brown;
+    font-size: 20px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.header_navbar {
+    display: flex;
+    gap: 20px;
+}

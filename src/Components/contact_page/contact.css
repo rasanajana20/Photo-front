@@ -1,0 +1,22 @@
+.contact_container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: 'Arial', sans-serif;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #fafafa;
+}
+
+h2 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.details_contact {
+  margin-bottom: 16px;
+}
+
+.contact_button {
+    text-align: center;
+}
